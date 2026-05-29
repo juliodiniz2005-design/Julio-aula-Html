@@ -1,0 +1,3 @@
+venv/
+MeuProjeto/MeuSite/MeuSite/__pycache__
+MeuProjeto/MeuSite/db.sqlite3
